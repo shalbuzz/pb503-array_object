@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Array_Object": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
